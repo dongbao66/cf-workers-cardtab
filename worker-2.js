@@ -4037,7 +4037,7 @@ export default {
 				const now = Math.floor(Date.now() / 1000);
 				const payload = {
 					iat: now,
-					exp: now + 15 * 60, // 15分钟有效
+					exp: now + 72 * 60 * 60, // 72小时有效 , 时/分/秒
 					role: 'admin',
 				};
 
