@@ -382,7 +382,7 @@ const HTML_CONTENT = `
         /* 主要内容区域样式 */
         .content {
             margin-top: 160px;
-            padding: 20px;
+            padding: 20px 400px;
         }
         
         .search-bar {
