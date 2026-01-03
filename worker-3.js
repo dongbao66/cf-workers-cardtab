@@ -659,6 +659,7 @@ const HTML_CONTENT = `
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
         border: 1px solid #e0e0e0;
         transition: all 0.3s ease;
+        display: none !important;
     }
 
     .search-bar:focus-within {
