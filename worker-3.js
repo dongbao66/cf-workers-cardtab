@@ -626,7 +626,7 @@ const HTML_CONTENT = `
     /* 主要内容区域样式 */
     .content {
         margin-top: 170px;
-        padding: 10px;
+        padding: 20px 400px;
         max-width: 1600px;
         margin-left: auto;
         margin-right: auto;
